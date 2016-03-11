@@ -8,7 +8,9 @@
 @section('post_body')
 
     @markdown
-    #Just a test for Katana
+    ###Just a test for Katana
+
+    This is just a test for Katana
     @endmarkdown
 
 @stop
